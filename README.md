@@ -15,13 +15,6 @@
 - Jelaskan cara pengambilan project mulai dari cloning repo GitHub sampai berhasil di running agar mempermudah pengujian.
 - Jelaskan langkah-langkah tersebut kedalam README.md project kalian.
 
-
-## Daftar Isi
-
-1. [Cara Penggunaan](#cara-penggunaan)
-2. [API Endpoint](#api-endpoint)
-
-
 # Cara Penggunaan
 
 Berikut adalah langkah-langkah untuk meng-clone proyek ini dan menjalankannya di komputer Anda.
