@@ -12,7 +12,7 @@
 
 3. Langkah-langkah Pengambilan Project:
 
-- Jelaskan cara pengambilan project mulai dari cloning repo GitHub sampai berhasil di running agar mempermudah pengujian.
+- Jelaskan cara pengambilan project mulai dari cloning repo GitHub sampai berhasil dirunning agar mempermudah pengujian.
 - Jelaskan langkah-langkah tersebut kedalam README.md project kalian.
 
 # Cara Penggunaan
