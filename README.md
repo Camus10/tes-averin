@@ -25,6 +25,7 @@ Berikut adalah langkah-langkah untuk meng-clone proyek ini dan menjalankannya di
 
    ```bash
    git clone https://github.com/Camus10/tes-averin.git
+   cd tes-averin
    ```
     
 2. **Konfigurasi Database**
