@@ -24,7 +24,7 @@ Berikut adalah langkah-langkah untuk meng-clone proyek ini dan menjalankannya di
    Buat folder untuk project baru lalu buka terminal dan jalankan perintah berikut untuk meng-clone repositori dari GitHub:
 
    ```bash
-   git clone https://github.com/nama-akun-github/nama-repositori.git
+   git clone https://github.com/Camus10/tes-averin.git
    ```
     
 2. **Konfigurasi Database**
